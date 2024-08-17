@@ -51,3 +51,4 @@ Once you push your changes, submit your changes for  review by  submitting a `Co
 
 ## Resource
 [GitHub Docs for adding SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+[GitHub Personal Access Token](https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
