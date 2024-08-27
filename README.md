@@ -46,8 +46,12 @@ To push your changes to GitHub, use the `git push` command.
 git push
 ```
 
-8. Submit a pull request.
-Once you push your changes, submit your changes for  review by  submitting a `Compare & pull request`. On my end, I  will merge your changes into the main branch of this project.
+~~8. Submit a pull request.~~
+~~Once you push your changes, submit your changes for  review by  submitting a `Compare & pull request`. On my end, I  will merge your changes into the main branch of this project.~~
+
+8. Commit the project
+Select the “Git” tab and check all the files that are changed. Hit the “Commit” button. Write a short description for the commit. On my end, I  will merge your changes into the main branch of this project.
+
 
 ## Resource
 [GitHub Docs for adding SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
